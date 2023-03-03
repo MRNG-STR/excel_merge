@@ -1,0 +1,3 @@
+npm install
+npx tsc merged-cells.ts
+node merged-cell.js ./Kahoot_Questions_Week.xlsx
